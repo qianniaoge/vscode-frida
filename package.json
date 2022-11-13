@@ -386,7 +386,7 @@
 		"@types/node": "^12.12.53",
 		"@types/vscode": "^1.45.1",
 		"glob": "^7.1.5",
-		"mocha": "^8.1.0",
+		"mocha": "^10.1.0",
 		"tslint": "^5.20.0",
 		"typescript": "^3.9.7",
 		"vscode-test": "^1.4.0"
